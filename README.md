@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @v14d3k
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning Angular
